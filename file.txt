@@ -1,2 +1,4 @@
 My first line in project
 Paris is the capital of France
+Make file.txt appear in staged and not staged
+Not staged
